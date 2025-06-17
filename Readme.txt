@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Consulting
-Template URL: https://bootstrapmade.com/bootstrap-consulting-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Kelompok 1 
+1. Ahmad Fauzi
+2. Fahri Fathan
+3. Reza Aditya
+4. M. Daffa W
